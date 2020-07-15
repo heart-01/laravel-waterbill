@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: normal;
+    font-weight: normal;
+    src: url("{{ asset('fonts/THSarabunNew.ttf') }}") format('truetype');
+}
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: normal;
+    font-weight: bold;
+    src: url("{{ asset('fonts/THSarabunNew Bold.ttf') }}") format('truetype');
+}
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: italic;
+    font-weight: normal;
+    src: url("{{ asset('fonts/THSarabunNew Italic.ttf') }}") format('truetype');
+}
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: italic;
+    font-weight: bold;
+    src: url("{{ asset('fonts/THSarabunNew BoldItalic.ttf') }}") format('truetype');
+}
+body {
+    font-family: "THSarabunNew";
+    font-size: 18px;
+}
+.fz {
+    font-size: 14px;
+    text-align: center;
+}
+
+.border-dashed {
+    padding:0px 10px 10px 10px;
+    border-top: 1px dashed #cbcccc;
+    border-bottom: 1px dashed #cbcccc;
+    border-right: 1px dashed #cbcccc;
+    border-left: 1px dashed #cbcccc;
+}
+.border-groove{
+    border: 0.5px groove #17a2b8;
+}
+.text-center{
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 10px;
+}
+.h4{
+    font-size:24px;
+}
+.text-danger{
+    color: red;
+}
+.div-table-margin{
+    margin-left: 10px;
+}
+.page-break{
+    page-break-after:always;
+}

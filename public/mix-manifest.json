@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/home.js": "/js/home.js",
+    "/js/site/address/amphur-edit.js": "/js/site/address/amphur-edit.js",
+    "/js/site/address/data-row.js": "/js/site/address/data-row.js",
+    "/js/site/address/index.js": "/js/site/address/index.js",
+    "/js/site/address/modal.js": "/js/site/address/modal.js",
+    "/js/site/bills/edit/index.js": "/js/site/bills/edit/index.js",
+    "/js/site/bills/insert/index.js": "/js/site/bills/insert/index.js",
+    "/js/site/reports/bills/index.js": "/js/site/reports/bills/index.js"
+}

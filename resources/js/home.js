@@ -1,0 +1,1 @@
+$(".nav-sidebar > li > .nav-home").addClass("active");

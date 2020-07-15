@@ -1,0 +1,7 @@
+.border-dashed {
+    padding:0px 10px 10px 10px;
+    border-top: 1px dashed #cbcccc;
+    border-bottom: 1px dashed #cbcccc;
+    border-right: 1px dashed #cbcccc;
+    border-left: 1px dashed #cbcccc;
+}
